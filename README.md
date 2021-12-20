@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Mike!
+### Hi there 👋 I'm Mike Kamminga!
 
 #### 🔭 I’m currently working on 
 - *building an open source, enterprise grade Design System Toolchain, called nextDS*, 
@@ -19,6 +19,7 @@ https://user-images.githubusercontent.com/61656324/140605977-4fec2605-6150-4e8d-
 - Evoling our open source design system boilerplate
 
 #### 📫 How to reach me: mike@phantasmagoria.in
+Or check my personal website: [mike.kamminga.net](https://mike.kamminga.net)
 
 
 <!--
