@@ -1,29 +1,28 @@
-### Hi there 👋 I'm Mike Kamminga!
+### Hi there 👋 I'm Mike Kamminga! 
+I'm the CEO and one of the co-founders at Hyma, best know for our revolutionary plugin [*Figma Tokens*](https://figmatokens.com).
 
-#### 🔭 I’m currently working on 
-- *building an open source, enterprise grade Design System Toolchain, called nextDS*, 
-- building a new multi-inspector for Figma Tokens with [@jansix](https://github.com/six7/figma-tokens)
+I specialise in Multi-brand Design Token architecture and I'm one of the co-creators of the [Headless Design System](https://www.youtube.com/watch?v=yvblQEPGPkM) concept that I created together with [@EstherCheran](https://github.com/EstherCheran)
 
-https://user-images.githubusercontent.com/61656324/140605977-4fec2605-6150-4e8d-b261-749a1d7c77ee.mov
-
-- building a Visual Regression Test tool for Figma
+#### 🔭 I’m currently working on
+- *Imagining & Engineering the future of Design Tokens at Figma Tokens ( [It's open source!](https://github.com/six7/figma-tokens) )*
+- Remotely supporting DS teams with Design Token Architecture. *( [Book a session with me](https://calendly.com/figmatokens) )*
 
 #### 🌱 I’m currently learning about 
-- Petri nets
-- advanced color processing
+- Advanced color processing
+- Graph Databases
 
 #### 👯 I'm a Memeber of 
 - W3C Design Tokens Focus group, imagining the future of design tokens
 
 #### 🤔 I’m looking for help with
-- Evoling our open source design system boilerplate
+- Evoling the open source Headless Design System I'm building with [@EstherCheran](https://github.com/EstherCheran)
 
-#### 📫 How to reach me: mike@phantasmagoria.in
+#### 📫 How to reach me: mike at hyma dot io
 Or check my personal website: [mike.kamminga.net](https://mike.kamminga.net)
 
 
 <!--
-**phantasmagoriadigital/phantasmagoriadigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mikekamminga/mikekamminga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
