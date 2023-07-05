@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Mike Kamminga! 
-I'm the CEO and one of the co-founders at Hyma, best know for our revolutionary plugin [*Figma Tokens*](https://figmatokens.com).
+I'm the CEO and one of the co-founders at Hyma, best know for our revolutionary plugin [*Tokens Studio*](https://tokens.studio).
 
 I specialise in Multi-brand Design Token architecture and I'm one of the co-creators of the [Headless Design System](https://www.youtube.com/watch?v=yvblQEPGPkM) concept that I created together with [@EstherCheran](https://github.com/EstherCheran)
 
 #### 🔭 I’m currently working on
-- *Imagining & Engineering the future of Design Tokens at Figma Tokens ( [It's open source!](https://github.com/six7/figma-tokens) )*
-- Remotely supporting DS teams with Design Token Architecture. *( [Book a session with me](https://calendly.com/figmatokens) )*
+- *Imagining & Engineering the future of Design Tokens at Tokens Studio ( [It's open source!](https://github.com/tokens-studio) )*
+- Remotely supporting DS teams with Design Token Architecture. *( [Book a session with me](https://calendly.com/tokens-studio) )*
 
 #### 🌱 I’m currently learning about 
 - Advanced color processing
